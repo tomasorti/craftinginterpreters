@@ -1,0 +1,19 @@
+8 Dec 2017
+
+As much as it has a feared reputation, I actually really like the dragon book.
+If I could only take one, it would be that.
+
+Programming Language Pragmatics, 
+Engineering a Compiler, 
+Types and Programming Languages, and 
+The Garbage Collection Handbook 
+are all really solid and well-written. ...
+
+Structure and Interpretation of Computer Programs,]
+The Art of the  Metaobject Protocol, and 
+Lisp in Small Pieces are all mind-expanding.
+
+Build Your Own Lisp,
+The C Programming Language (K&R),
+Algorithms + Data Structures = Programs, and 
+Writing an Interpreter in Go are super fun concise reads.
